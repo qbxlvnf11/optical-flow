@@ -6,7 +6,7 @@ Description
 #### - Optical Flow
   - The pattern of apparent motion of image objects between two consecutive frames caused by the movement of object or camera
   - It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second
-  - Sparse Optical Flow
+  - Details about optical flow: see blog posting in References section below
 
 #### - Sparse Optical Flow vs Dense Optical Flow 
   - Sparse optical flow: computing the optical flow using the information about the corner location
