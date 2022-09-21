@@ -3,11 +3,19 @@
 Description
 =============
 
+#### - Optical Flow
+  - The pattern of apparent motion of image objects between two consecutive frames caused by the movement of object or camera
+  - It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second
+
+#### - Dense Optical Flow (Gunnar Farneback's Algorithm-Based)
+  - Computing the optical flow for all the points in the frame
 
 Contents
 =============
 
 #### - Lucas-Kanade optical flow with OpenCV
+
+#### - Dense Optical Flow flow with OpenCV
 
 #### - Hardware-accelerated optical flow with NvidiaHWOpticalFlow
 
