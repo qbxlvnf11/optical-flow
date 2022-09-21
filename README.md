@@ -15,7 +15,7 @@ Contents
 
 #### - Lucas-Kanade optical flow with OpenCV
 
-#### - Dense Optical Flow flow with OpenCV
+#### - Dense optical flow with OpenCV
 
 #### - Hardware-accelerated optical flow with NvidiaHWOpticalFlow
 
