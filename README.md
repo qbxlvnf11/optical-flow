@@ -6,18 +6,20 @@ Description
 #### - Optical Flow
   - The pattern of apparent motion of image objects between two consecutive frames caused by the movement of object or camera
   - It is 2D vector field where each vector is a displacement vector showing the movement of points from first frame to second
+  - Sparse Optical Flow
 
-#### - Dense Optical Flow (Gunnar Farneback's Algorithm-Based)
-  - Computing the optical flow for all the points in the frame
+#### - Sparse Optical Flow vs Dense Optical Flow 
+  - Sparse optical flow: computing the optical flow using the information about the corner location
+  - Dense optical flow: computing the optical flow for all the points in the frame
 
 Contents
 =============
 
-#### - Lucas-Kanade optical flow with OpenCV
+#### - [SparLucas-Kanade method based sparse optical flow with OpenCV]()
+  
+#### - [Farneback method based dense optical flow with OpenCV]()
 
-#### - Dense optical flow with OpenCV
-
-#### - Hardware-accelerated optical flow with NvidiaHWOpticalFlow
+#### - [Hardware-accelerated optical flow with NvidiaHWOpticalFlow]()
 
 
 Datasets
@@ -29,6 +31,12 @@ http://sintel.is.tue.mpg.de/downloads
 
 References
 =============
+
+#### - Sparse & dense optical flow
+
+https://learnopencv.com/optical-flow-in-opencv/
+
+https://nanonets.com/blog/optical-flow/
 
 #### - Optical flow with OpenCV
 
