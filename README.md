@@ -29,6 +29,10 @@ Datasets
 
 http://sintel.is.tue.mpg.de/downloads
 
+#### - JHMDB
+
+http://jhmdb.is.tue.mpg.de/dataset
+
 References
 =============
 
