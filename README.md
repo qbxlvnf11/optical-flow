@@ -15,7 +15,7 @@ Description
 Contents
 =============
 
-#### - [SparLucas-Kanade method based sparse optical flow with OpenCV](https://github.com/qbxlvnf11/optical-flow/blob/main/Lucas_Kanade_sparse_optical_flow.ipynb)
+#### - [Lucas-Kanade method based sparse optical flow with OpenCV](https://github.com/qbxlvnf11/optical-flow/blob/main/Lucas_Kanade_sparse_optical_flow.ipynb)
   
 #### - [Farneback method based dense optical flow with OpenCV](https://github.com/qbxlvnf11/optical-flow/blob/main/Farneback_dense_optical_flow.ipynb)
 
