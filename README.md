@@ -19,7 +19,7 @@ Contents
   
 #### - [Farneback method based dense optical flow with OpenCV](https://github.com/qbxlvnf11/optical-flow/blob/main/Farneback_dense_optical_flow.ipynb)
 
-#### - [Hardware-accelerated optical flow with NvidiaHWOpticalFlow]()
+#### - [Hardware-accelerated optical flow with NvidiaHWOpticalFlow](): soon ...
 
 
 Datasets
